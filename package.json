@@ -1,0 +1,8 @@
+{
+  "name": "service-baseline",
+  "private": true,
+  "scripts": {
+    "test": "node test_service.js"
+  }
+}
+
